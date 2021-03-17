@@ -1,0 +1,7 @@
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\bin\Debug\IT213_Williams_Unit5_Project3_C.exe.config
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\bin\Debug\IT213_Williams_Unit5_Project3_C.exe
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\bin\Debug\IT213_Williams_Unit5_Project3_C.pdb
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\obj\Debug\IT213_Williams_Unit5_Project3_C.csproj.CoreCompileInputs.cache
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\obj\Debug\IT213_Williams_Unit5_Project3_C.exe
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\obj\Debug\IT213_Williams_Unit5_Project3_C.pdb
+C:\Users\Celena\source\repos\IT213_Williams_Unit5_Project3_C\IT213_Williams_Unit5_Project3_C\obj\Debug\IT213_Williams_Unit5_Project3_C.csprojResolveAssemblyReference.cache
